@@ -1,0 +1,63 @@
+body {
+ background: #AA771E;
+}
+
+
+h1 {
+text-align: center;
+color: #3F4D30;
+font-family: 'Helvetica Neue', sans-serif; 
+font-size: 50px; 
+font-weight: bold; 
+letter-spacing: -1px; 
+line-height: 1;
+ text-align: center;
+
+}
+
+.cubapicture img {
+
+	display: block;
+    margin: auto;
+    width: 40%;
+	}
+
+ul.SocialMedia {
+text-align: center;
+color: black;
+
+}
+
+p.Bio {
+-webkit-columns: 300px 2;
+   -moz-columns: 300px 2;
+        columns: 300px 2;
+        color: ##3F4D30; 
+        font-family: 'Helvetica Neue', sans-serif; 
+        font-size: 14px; l
+        ine-height: 24px; 
+        margin: 0 0 24px; 
+        text-align: justify; 
+        text-justify: inter-word;
+}
+
+.contact {
+    text-align:center
+}
+.contact > div {
+    vertical-align:top;
+    display:inline-block;   
+}
+
+h3 {text-align: center;
+color: #3F4D30;
+font-family: 'Helvetica Neue', sans-serif; 
+font-size: 25px; 
+font-weight: bold; 
+letter-spacing: -1px; 
+line-height: 1;
+ text-align: center;}
+
+ .link > div {
+    text-align: center;  
+}
